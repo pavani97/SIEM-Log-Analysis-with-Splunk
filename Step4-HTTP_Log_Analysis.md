@@ -67,4 +67,4 @@ After completing this lab, you will be able to:
 - Detect potential attacks.  
 - Gain insight into web traffic patterns in Splunk.  
 
-👉 **Continue to [Step 5 — Investigating Unauthorized Access**:](Step5-Investigating_Unauthorized_Access.md)
+

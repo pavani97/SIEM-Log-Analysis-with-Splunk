@@ -9,15 +9,15 @@ It is well-suited for **SOC Analysts**, **Cybersecurity Students**, and **beginn
 ---
 
 ## 📘 Table of Contents
-- [Project Overview](#project-overview)
-- [Learning Objectives](#learning-objectives)
-- [Tools & Setup](#tools--setup)
-- [Project Workflow](#project-workflow)
-- [Step 1 — Install and Configure Splunk](#step-1--install-and-configure-splunk)
-- [Step 2 — DNS Log Analysis](#step-2--dns-log-analysis)
-- [Step 3 — SSH Log Analysis](#step-3--ssh-log-analysis)
-- [Step 4 — HTTP Log Analysis](#step-4--http-log-analysis)
-- [Step 5 — Investigating Unauthorized Access](#step-5--investigating-unauthorized-access)
+- [Project Overview]
+- [Learning Objectives]
+- [Tools & Setup]
+- [Project Workflow]
+- [Step 1 — Install and Configure Splunk]
+- [Step 2 — DNS Log Analysis]
+- [Step 3 — SSH Log Analysis]
+- [Step 4 — HTTP Log Analysis]
+- [Step 5 — Investigating Unauthorized Access]
 - [Results and Screenshots]
 
 ---

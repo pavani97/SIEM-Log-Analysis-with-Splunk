@@ -18,7 +18,7 @@ It is well-suited for **SOC Analysts**, **Cybersecurity Students**, and **beginn
 - [Step 3 — SSH Log Analysis](#step-3--ssh-log-analysis)
 - [Step 4 — HTTP Log Analysis](#step-4--http-log-analysis)
 - [Step 5 — Investigating Unauthorized Access](#step-5--investigating-unauthorized-access)
-- [Results and Screenshots](#results-and-screenshots)
+- [Results and Screenshots]
 
 ---
 

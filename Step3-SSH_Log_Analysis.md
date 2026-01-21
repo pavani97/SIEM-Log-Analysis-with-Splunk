@@ -72,5 +72,5 @@ In this section, you will:
 - Find the most active client IPs.  
 - Detect unusual HTTP activity that might indicate attacks or suspicious behavior.  
 
-👉 Continue to [Step 4 — HTTP Log Analysis:](Step4-HTTP_Log_Analysis)
+
 

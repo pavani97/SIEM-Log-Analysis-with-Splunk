@@ -114,7 +114,7 @@ sudo /opt/splunk/bin/splunk status
 Now that Splunk is installed and configured successfully, the next section — **Step 2: DNS Log Analysis** — will guide you through ingesting DNS logs into Splunk and analyzing them using SPL (Search Processing Language).  
 You’ll learn how to extract fields, identify the most queried domains, find active source IPs, and detect unusual DNS activity that could indicate malicious behavior.
 
-👉 Continue to [Step 2 — DNS Log Analysis](Step2-DNS_Log_Analysis.md)
+
 
 ---
 
